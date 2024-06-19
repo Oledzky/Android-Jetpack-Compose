@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816339658623",
+    "project_id": "prm2firestore",
+    "storage_bucket": "prm2firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816339658623:android:2d626c30c89f390d32dc4a",
+        "android_client_info": {
+          "package_name": "com.example.prm_2_s20514"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAaF8zMPfocjMURzLvUSM2stjjDfGUPFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
